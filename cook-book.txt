@@ -1,0 +1,17 @@
+Version 1.0 Cookbook
+
+Main Courses:
+- Spaghetti
+  Ingredients: Spaghetti, minced beef, tomato sauce, onion, garlic, olive oil.
+  Steps:
+  1. Cook spaghetti.
+  2. Prepare the sauce.
+  3. Combine and serve.
+
+Desserts:
+- Chocolate Chip Cookies
+  Ingredients: Flour, sugar, butter, chocolate chips, eggs, vanilla extract.
+  Steps:
+  1. Mix ingredients thoroughly.
+  2. Bake at 350°F for 12 minutes.
+
