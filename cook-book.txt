@@ -1,4 +1,4 @@
-Version 1 Cookbook
+Version 1.0 Cookbook
 
 Main Courses:
 - Spaghetti
@@ -12,6 +12,6 @@ Desserts:
 - Chocolate Chip Cookies
   Ingredients: Flour, sugar, butter, chocolate chips, eggs, vanilla extract.
   Steps:
-  1. Mix ingredients.
+  1. Mix ingredients thoroughly.
   2. Bake at 350°F for 12 minutes.
 
